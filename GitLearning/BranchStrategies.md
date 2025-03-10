@@ -1,0 +1,1 @@
+    - src: https://tilburgsciencehub.com/topics/automation/version-control/advanced-git/git-branching-strategies/#:~:text=Feature%20Branching%20is%20a%20Git,merging%20into%20the%20main%20branch.
