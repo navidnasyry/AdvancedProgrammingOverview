@@ -1,4 +1,7 @@
-Jadi Git:
-	- https://www.aparat.com/v/69Reu
 
+### Sources
+
+    Jadi Git Cource:
+	    - https://www.aparat.com/playlist/5913237
+    
 
